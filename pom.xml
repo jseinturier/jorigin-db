@@ -29,7 +29,7 @@
 	<dependency>
       <groupId>jorigin</groupId>
       <artifactId>jorigin-common</artifactId>
-      <version>1.0.2</version>
+      <version>1.0.3</version>
       <scope>compile</scope>
     </dependency>
     
